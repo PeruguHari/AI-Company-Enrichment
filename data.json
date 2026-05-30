@@ -1,0 +1,90 @@
+[
+    {
+        "website_name": "https://openai.com",
+        "company_name": "Unable to determine from provided content.",
+        "address": "",
+        "mobile_number": "",
+        "mail": [],
+        "core_service": "Unable to determine from provided content.",
+        "target_customer": "Unable to determine from provided content.",
+        "probable_pain_point": "Unable to determine from provided content.",
+        "outreach_opener": "Unable to determine from provided content."
+    },
+    {
+        "website_name": "https://openai.com",
+        "company_name": "Unavailable due to website access restrictions",
+        "address": "",
+        "mobile_number": "",
+        "mail": [],
+        "core_service": "Unavailable due to website access restrictions",
+        "target_customer": "Unavailable due to website access restrictions",
+        "probable_pain_point": "Unavailable due to website access restrictions",
+        "outreach_opener": "Unavailable due to website access restrictions"
+    },
+    {
+        "website_name": "https://openai.com",
+        "company_name": "",
+        "address": "",
+        "mobile_number": "",
+        "mail": [],
+        "core_service": "",
+        "target_customer": "",
+        "probable_pain_point": "",
+        "outreach_opener": ""
+    },
+    {
+        "website_name": "https://openai.com",
+        "company_name": "",
+        "address": "",
+        "mobile_number": "",
+        "mail": [],
+        "core_service": "",
+        "target_customer": "",
+        "probable_pain_point": "",
+        "outreach_opener": ""
+    },
+    {
+        "website_name": "https://www.zoho.com",
+        "company_name": "Zoho",
+        "address": "",
+        "mobile_number": "",
+        "mail": [],
+        "core_service": "A comprehensive cloud software suite offering 50+ integrated applications to manage all business operations, from CRM and accounting to email and custom app development, with a focus on privacy.",
+        "target_customer": "Businesses of all sizes, including startups, small businesses, mid-sized companies, and large enterprises across various industries.",
+        "probable_pain_point": "Inefficient business operations due to a fragmented tech stack, disconnected software tools, high costs of managing multiple vendors, concerns about data privacy and security, and the lack of a unified platform to manage sales, marketing, finance, and customer service.",
+        "outreach_opener": "Are you struggling to streamline your business operations due to a fragmented tech stack and disconnected software tools? Zoho offers a unified cloud suite of 50+ applications designed to run your entire business from a single, privacy-focused platform. Would consolidating your systems be beneficial?"
+    },
+    {
+        "website_name": "https://www.zoho.com",
+        "company_name": "Zoho",
+        "address": "",
+        "mobile_number": "",
+        "mail": [],
+        "core_service": "A comprehensive cloud software suite offering over 50 integrated business applications designed to manage an entire company's operations, functioning as an 'operating system for business.'",
+        "target_customer": "Businesses of all sizes, including startups, small businesses, mid-sized companies, and large enterprises, across various industries and global regions.",
+        "probable_pain_point": "Businesses often face challenges with operational fragmentation, inefficiency, and high costs due to managing multiple disparate software tools for different functions (e.g., sales, marketing, support, accounting, custom apps). They also experience concerns regarding data privacy, security, and the complexity of integrating diverse systems.",
+        "outreach_opener": "Many businesses struggle with the complexity and inefficiency of managing operations across multiple, disconnected software tools. How are you currently handling your key business functions, and have you explored the benefits of a unified cloud software suite?"
+    },
+    {
+        "website_name": "https://www.zoho.com",
+        "company_name": "Zoho",
+        "address": "",
+        "mobile_number": "",
+        "mail": [],
+        "core_service": "A comprehensive suite of cloud-based business software applications, including CRM, accounting, email, custom app development, and customer service tools, offered as individual products or as an 'operating system for business' through Zoho One, which unifies 50+ applications.",
+        "target_customer": "Businesses of all sizes, from startups and small businesses to mid-sized companies and large enterprises, seeking integrated, secure, and scalable software solutions to manage their sales, marketing, operations, finance, and customer support functions.",
+        "probable_pain_point": "Businesses often struggle with fragmented software systems leading to inefficiencies, increased costs, and a lack of unified data across departments (e.g., sales, marketing, support, finance). They may also face challenges with data privacy and security, complexity in managing multiple vendors, and the need for custom solutions or scalable platforms to support growth.",
+        "outreach_opener": "Many businesses find themselves juggling a collection of disconnected software tools that hinder efficiency and unified insights. How are you currently managing your core business functions to ensure seamless operations and data flow?"
+    },
+    {
+        "website_name": "https://www.zoho.com",
+        "company_name": "Zoho",
+        "address": "",
+        "mobile_number": "6062776335",
+        "mail": [],
+        "core_service": "A comprehensive suite of integrated cloud-based business software applications that serves as a unified operating system for businesses, covering a wide range of operational needs from CRM and sales to finance, marketing, and collaboration.",
+        "target_customer": "Businesses of all sizes, including startups, small businesses, mid-sized companies, and large enterprises across various industries.",
+        "probable_pain_point": "Businesses often struggle with the complexity, high costs, and operational inefficiencies stemming from managing numerous disparate software tools and vendors, leading to data silos, integration challenges, and a lack of a unified view of their operations, coupled with concerns about data privacy.",
+        "outreach_opener": "Is your business weighed down by the complexity, cost, and integration challenges of managing multiple, disconnected software applications from various vendors?"
+    }
+]
