@@ -100,9 +100,14 @@ AI-Company-Enrichment/
 
 ## Deployment
 
+Google Colab Notebook:
+
+https://colab.research.google.com/drive/14Gvf1CaLKTuvXb2_joUcCIrltoE_gV3u?usp=sharing
+
 Live Application:
 
 https://ai-company-enrichment-dauw.onrender.com
+
 
 GitHub Repository:
 
